@@ -9,7 +9,7 @@ Hey there! Welcome to my corner of the coding universe! I'm on a mission to imme
 * 🌍  I'm based in Montreal
 * ✉️  You can contact me at [pierre.diop@outlook.com](mailto:pierre.diop@outlook.com)
 * 🧠  I'm learning PyTorch for Deep Learning
-* 🤝  I'm open to collaborating on collaborating on projects
+* 🤝  I'm open to collaborating on projects
 
 ### Skills
 
